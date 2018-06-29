@@ -15,7 +15,7 @@
 
 
 ## Description
-焼きなまし法による、巡回セールスマン問題解決のアルゴリズムに2opt、3opt法を用いて最小値を求めた
+焼きなまし法による、巡回セールスマン問題解決のアルゴリズムを用いて求めた値に、2opt、3opt法を用いて値の更新を行った後、最小値を求めた
 
 焼きなまし法とは
 [Wikipedia](http://en.wikipedia.org/wiki/Travelling_salesman_problem):
